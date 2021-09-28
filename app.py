@@ -78,3 +78,4 @@ def delete(student_id: int):
 
 #if __name__ == "__main__":
 #uvicorn app:app --reload
+
